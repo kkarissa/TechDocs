@@ -42,7 +42,7 @@ Whether you're a developer looking to streamline your docs or a team in need of 
 
 ## Installation
 
-TechDocs can be installed via npm. **Note:** The installation instructions below refer to an older version of TechDocs. For the latest commands, please check our [official website](https://techdocs.example.com).
+TechDocs can be installed via npm. **Note:** The installation instructions below refer to an older version of TechDocs. For the latest commands, please check our [official website](https://cran.r-project.org/web/packages/TBox/index.html).
 
 1. **Via NPM (Outdated Command):**
    ```bash
